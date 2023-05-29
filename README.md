@@ -21,5 +21,6 @@ npm i --save-dev eslint@8.16.0 --save-exact
 npx eslint --init
 
 # Instalando Jest
+# https://jestjs.io/pt-BR/docs/using-matchers
 npm i --save-exact jest@28.1.0 --save-dev
 ```
