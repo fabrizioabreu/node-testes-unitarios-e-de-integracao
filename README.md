@@ -8,7 +8,8 @@ Testes Unitários e de Integração
 
 ## Inicialização
 ```sh
-
+# Executar comando de teste
+npm test
 ```
 
 ## Dependências instaladas
