@@ -5,6 +5,7 @@ Testes Unitários e de Integração
 ## Tecnologias 
 - Node.js
 - Java Script
+- Jest
 
 ## Inicialização
 ```sh
